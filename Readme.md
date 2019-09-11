@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Боблак](https://up.htmlacademy.ru/javascript/18/user/257709).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Усик](https://htmlacademy.ru/profile/id235226).
 
 ---
 
